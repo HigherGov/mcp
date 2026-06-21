@@ -6,7 +6,7 @@ MCP stands for **Model Context Protocol**. It is a standard way for AI assistant
 
 The HigherGov MCP is powered by the HigherGov API and is available to HigherGov subscribers.
 
-> This feature is currently in beta. If you have use cases not currently supported, please send suggestions to [contact@highergov.com](mailto:contact@highergov.com).
+> If you have questions or suggestions please send to [contact@highergov.com](mailto:contact@highergov.com).
 
 ---
 
@@ -16,6 +16,8 @@ The HigherGov MCP is powered by the HigherGov API and is available to HigherGov 
 https://www.highergov.com/mcp/
 ```
 
+---
+
 ## Create an API Key
 
 To use the HigherGov MCP, you need a HigherGov API key.
@@ -24,43 +26,6 @@ You can create and manage API keys here:
 
 ```text
 https://www.highergov.com/api-management/
-
----
-
-## What You Can Do
-
-Use HigherGov MCP to ask questions such as:
-
-```text
-Find active federal contract opportunities for cybersecurity services.
-```
-
-```text
-Find low-competition federal and SLED IT opportunities in Virginia and recommend teaming partners.
-```
-
-```text
-Search recent federal contract awards for zero trust.
-```
-
-```text
-Find potential small business partners with federal health agency experience.
-```
-
-```text
-Review the solicitation documents and identify submission requirements.
-```
-
-```text
-Find active SLED opportunities for construction services in Texas.
-```
-
-```text
-Research the incumbent contractor for this recompete opportunity.
-```
-
-```text
-Find companies with relevant prior performance for this opportunity.
 ```
 
 ---
@@ -92,7 +57,7 @@ Sources and data coverage include:
 
 ---
 
-## Available MCP Tools
+## Select MCP Tools
 
 The HigherGov MCP exposes tools that allow AI assistants to search HigherGov data and retrieve supporting records.
 
@@ -631,8 +596,6 @@ Search for this part number and summarize suppliers.
 
 - HigherGov MCP is available to HigherGov subscribers.
 - Each subscription includes API/MCP usage subject to the terms of the subscriber’s plan.
-- Supported clients and MCP configuration steps may change as AI assistants update their MCP and connector support.
-- You generally do not need to call individual tools by name. Ask natural-language questions and your AI assistant will choose the appropriate HigherGov MCP tools.
 
 ---
 
